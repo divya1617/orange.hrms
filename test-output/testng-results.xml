@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[adding new emp]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="50169" started-at="2020-10-15T14:13:28Z" finished-at="2020-10-15T14:14:18Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="50169" started-at="2020-10-15T14:13:28Z" finished-at="2020-10-15T14:14:18Z">
+      <class name="orange.hrms.libs1.Tc0001">
+        <test-method status="PASS" signature="Tc0001()[pri:0, instance:orange.hrms.libs1.Tc0001@1f89ab83]" name="Tc0001" duration-ms="23762" started-at="2020-10-15T19:43:28Z" finished-at="2020-10-15T19:43:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Tc0001 -->
+      </class> <!-- orange.hrms.libs1.Tc0001 -->
+      <class name="orange.hrms.libs1.Tc002">
+        <test-method status="PASS" signature="Tc002()[pri:0, instance:orange.hrms.libs1.Tc002@277c0f21]" name="Tc002" duration-ms="26391" started-at="2020-10-15T19:43:52Z" finished-at="2020-10-15T19:44:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[adding new emp]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Tc002 -->
+      </class> <!-- orange.hrms.libs1.Tc002 -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
